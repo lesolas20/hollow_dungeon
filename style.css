@@ -14,9 +14,9 @@ body {
 }
 
 .header-image {
-    width: 300px;
+    width: 400px;
     height: auto;
-    border: 3px solid magenta;
+    border: 3px solid black;
     display: block;
     object-fit: contain;
 }
@@ -187,7 +187,7 @@ body {
     }
 
     .header-image {
-        width: 80%;
+        width: 100%;
     }
 
     .description-short {
