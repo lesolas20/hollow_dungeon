@@ -3,6 +3,10 @@ body {
     width: 80%;
     margin: 0 10%;
     padding: 0;
+    background-color: #121212;
+    background-image: radial-gradient(#1c1c1c 1px, transparent 1px);
+    background-size: 4px 4px;
+    color: #e0e0e0;
 }
 
 .header {
