@@ -42,8 +42,8 @@ function showNext() {
   transitionRight(currentIndex)
 }
 
-window.addEventListener('load', syncThumbnailHeight);
-window.addEventListener('resize', syncThumbnailHeight);
+window.addEventListener("load", syncThumbnailHeight);
+window.addEventListener("resize", syncThumbnailHeight);
 
 document.addEventListener("keydown", (e) => {
   if (lightbox.style.display === "flex") {
